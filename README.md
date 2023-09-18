@@ -16,15 +16,21 @@ This Python script applies Otsu's thresholding method to an input grayscale imag
 
    ```shell
    python otsu_threshold.py <image_path>
+   ```
 Replace <image_path> with the path to your image file.
 
 ## Example
 
-1. Here's an example of how to use the script:
+Here's an example of how to use the script:
 
    ```shell
-   python otsu_threshold.py input_image.jpg
-The script will display the original image and the Otsu thresholded image side by side.
+   python otsu_threshold.py julia.tif
+   ```
+The script will display the original image and the Otsu thresholded image side by side:
+
+<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/97dccb11-d189-46df-bb8a-00c4b51eb6e2" width="400"><br />
+<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/24c08fcb-3532-4bb8-a165-7dc1a3041095" width="400"><br />
+<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/6a847f6b-a292-4f02-898f-976a0aa6bde1" width="400">
 
 ## Output
 
