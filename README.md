@@ -28,9 +28,9 @@ Here's an example of how to use the script:
    ```
 The script will display the original image and the Otsu thresholded image side by side:
 
-<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/97dccb11-d189-46df-bb8a-00c4b51eb6e2" width="400"><br />
-<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/24c08fcb-3532-4bb8-a165-7dc1a3041095" width="400"><br />
-<img src="https://github.com/kelemenr/otsu-threshold/assets/47530064/6a847f6b-a292-4f02-898f-976a0aa6bde1" width="400">
+<img src="output/julia_plot.png" width="400"><br />
+<img src="output/aluminium_plot.png" width="400"><br />
+<img src="output/phobos_plot.png" width="400">
 
 ## Output
 
